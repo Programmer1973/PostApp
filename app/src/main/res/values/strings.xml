@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PostApp</string>
+
+    <string name="create_post">Create Post</string>
+    <string name="post_text_hint">Text of post</string>
+
+    <string name="delete_post">Delete post</string>
+    <string name="delete">Delete</string>
+
+    <string name="update_post">Update post</string>
+    <string name="update">Update</string>
+    <string name="updated">updated</string>
+
+    <string name="create">Create</string>
+    <string name="error_no_text">No text</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="delete_x_post">✕</string>
+    <!--code 2717-->
+    <string name="delete_all_posts">Delete all</string>
+
+</resources>

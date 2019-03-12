@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PostApp</string>
+
+    <string name="create_post">Создать пост</string>
+    <string name="post_text_hint">Текст поста</string>
+
+    <string name="delete_post">Удалить пост</string>
+    <string name="delete">Удалить</string>
+
+    <string name="update_post">Обновить пост</string>
+    <string name="update">Обновить</string>
+    <string name="updated">обновлено</string>
+
+    <string name="create">Создать</string>
+    <string name="error_no_text">Нет текста</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="delete_x_post">✕</string>
+    <!--code 2717-->
+    <string name="delete_all_posts">Удалить все</string>
+
+</resources>
